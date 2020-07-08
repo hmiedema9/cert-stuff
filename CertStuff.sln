@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CertStuff", "CertStuff\CertStuff.csproj", "{87CDFDA3-1934-445F-B7DF-35A07D9A0823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87CDFDA3-1934-445F-B7DF-35A07D9A0823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87CDFDA3-1934-445F-B7DF-35A07D9A0823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87CDFDA3-1934-445F-B7DF-35A07D9A0823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87CDFDA3-1934-445F-B7DF-35A07D9A0823}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
